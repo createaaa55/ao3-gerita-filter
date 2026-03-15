@@ -15,10 +15,14 @@
 
 ## 使用方法
 
-1. 复制 `ao3-blocklist.css` 中的代码  
-2. 打开 AO3 → Dashboard → Skins  
-3. 新建 Site Skin  
-4. 粘贴代码并保存
+1. 打开 `ao3-gerita-filter.css`
+2. 用任意文本编辑器打开该文件（例如 Windows 的“记事本”）
+3. 复制文件中的全部代码
+4. 登录 AO3
+5. 进入 Dashboard → Skins
+6. 创建新的 Site Skin
+7. 粘贴代码并保存
+8. 如果不会打开文件，也可以直接在 GitHub 页面中打开该文件并复制里面的代码
 
 ## 原理
 
