@@ -38,7 +38,7 @@
 - `Germany*s*North%20Italy%20(Hetalia)`
   
 - 包含汉字的tag请转化为UTF-8编码
-- - 例：
+-  例：
 - `独伊`
 - 对应TAG_NAME为：
 - `%E7%8B%AC%E4%BC%8A`
