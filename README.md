@@ -26,7 +26,7 @@
 ## 说明
 
 第一段用于屏蔽所有匿名作者的作品，如果不需要可以删除。
-第二段用于屏蔽指定标签，可以根据需要自行添加或修改 tag。
+第二段用于屏蔽指定标签。本方法只能屏蔽与代码中完全相同的标签。由于作者本人已 mute 了部分作者，可能未覆盖所有情况，如有需要可以自行添加或修改 tag。
 
 ## 如何添加新的 tag
 .blurb:has(a[href$="/tags/TAG_NAME/works"])
@@ -36,6 +36,7 @@
 - `Germany/North Italy (Hetalia)`
 - 对应TAG_NAME为：
 - `Germany*s*North%20Italy%20(Hetalia)`
+  
 - 包含汉字的tag请转化为UTF-8编码
 - - 例：
 - `独伊`
