@@ -33,6 +33,6 @@
 - 空格 `" "` → `%20`
 - 斜杠 `"/"` → `*s*`
 - 例：
-- Germany/North Italy (Hetalia)
+- `Germany/North Italy (Hetalia)`
 - 对应TAG_NAME为：
-- Germany*s*North%20Italy%20(Hetalia)
+- `Germany*s*North%20Italy%20(Hetalia)`
