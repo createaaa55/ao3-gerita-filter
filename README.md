@@ -35,11 +35,11 @@
 - 斜杠 `"/"` → `*s*`
 - 例：
 - `Germany/North Italy (Hetalia)`
-- 对应TAG_NAME为：
+- 对应 TAG_NAME 为：
 - `Germany*s*North%20Italy%20(Hetalia)`
   
 - 包含汉字的tag请转化为UTF-8编码
 -  例：
 - `独伊`
-- 对应TAG_NAME为：
+- 对应 TAG_NAME 为：
 - `%E7%8B%AC%E4%BC%8A`
