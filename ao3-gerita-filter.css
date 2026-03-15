@@ -1,6 +1,19 @@
+.blurb.work:not(:has(.heading a[rel="author"])) {
+  display: none !important;
+}
+
 .blurb:has(a[href$="/tags/%E4%BC%8A%E7%8B%AC/works"]),
+.blurb:has(a[href$="/tags/ItaGer%20-%20Relationship/works"]),
+.blurb:has(a[href$="/tags/ItaGer/works"]),
+.blurb:has(a[href$="/tags/itager/works"]),
+.blurb:has(a[href$="/tags/Seme!Italy/works"]),
 .blurb:has(a[href$="/tags/Top%20North%20Italy%20(Hetalia)/works"]),
+.blurb:has(a[href$="/tags/Top%20North%20Italy/works"]),
+.blurb:has(a[href$="/tags/top%20north%20italy/works"]),
+.blurb:has(a[href$="/tags/top%20italy/works"]),
 .blurb:has(a[href$="/tags/Bottom%20Germany%20(Hetalia)/works"]),
+.blurb:has(a[href$="/tags/Bottom%20Germany/works"]),
+.blurb:has(a[href$="/tags/bottom%20germany/works"]),
 .blurb:has(a[href$="/tags/Germany*s*South%20Italy%20(Hetalia)/works"]),
 .blurb:has(a[href$="/tags/Germany*s*Prussia%20(Hetalia)/works"]),
 .blurb:has(a[href$="/tags/France*s*Germany%20(Hetalia)/works"]),
